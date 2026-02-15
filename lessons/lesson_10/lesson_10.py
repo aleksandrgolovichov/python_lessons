@@ -59,17 +59,5 @@ while i < len(colors_list):
     i += 1
 
 
-def owners_cars(cars, names):
-    car_owner = {
 
-    }
-    for values in cars:
-            for kay
-    for i in range(len(names)):
-        print(i)
-        for car in cars:
-            print(car, names[i])
-
-
-owners_cars(cars=car_list, names=Name_list)
 
