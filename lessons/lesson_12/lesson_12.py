@@ -36,5 +36,6 @@ print(list_2)
 
 list_2_conmprehension = [num ** 2 if num % 2 == 1 else num ** 4 for num in range(10)]
 
+
 dict_2_conmprehension = {num: str(num * 2) if num % 2==1 else num * 4 for num in range(10)}
 print(dict_2_conmprehension)
